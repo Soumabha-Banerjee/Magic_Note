@@ -1,0 +1,10 @@
+Magic Note
+Note Taking Website --- Completely Made by BootStrap and JavaScript.
+
+Features:
+1.Create Unlimited Note.
+2.Save Unlimited Note.
+3.Delete Note.
+4.Search Note.
+5.Mark a Note as Important.
+6.Add a Title to Note.
